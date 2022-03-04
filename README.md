@@ -76,4 +76,5 @@ SSH kết nối vào cổng chỉ định , đơn giản đi kèm với tự đ�
 Điều khiển từ bất cứ đâu bằng của bạn yêu thích thiết bị, từ máy tính xách tay, PC, di động đến Rasberry Pi, Smart TV, một phần mềm nền tảng đến "kỳ diệu" (sắp có bố cục đáp ứng!)
 Nhập, xuất, khởi động phần mềm, ngắt kết nối cổng, ... tất cả chỉ cần đúng 1 click chuột (hoặc 2, 3 cái gì đó)
 Control by code with API HTTP siêu ngắn gọn, đơn giản, trực tiếp (cung cấp bởi OpenAPI), dễ đến nỗi không biết mã cũng được
-<img src="https://mmo4me.com/attachments/demo-png"></p>
+
+<img src="https://mmo4me.com/attachments/demo-png.182903/"></p>
