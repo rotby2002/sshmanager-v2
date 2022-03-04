@@ -58,7 +58,7 @@ pipenv run compile.py
 
 A new file named `sshmanager-v2.zip` will be generated and is ready to use!
 
-SSHManager v2 - Use SSH as proxy
+## SSHManager v2 - Use SSH as proxy
 
 You are money buy proxy? Bạn muốn sử dụng proxy giá rẻ nhưng không ai bán cho bạn cả? You have a stack SSH to I don't doing what? Bạn có công cụ kiểm tra siêu đỉnh mới nhưng lại phải lục đục đi gõ lệnh để chúng ta làm proxy? Bạn đã thấy biểu tượng kết quả trên cực dễ thương?
 Vậy thì xin chúc mừng vì giờ đây, bạn đã có SSHManager v2 bên cạnh!
@@ -68,7 +68,7 @@ Không còn gì tuyệt hơn bằng một kiểm tra giải pháp và kết nố
 Tất cả những gì bạn cần đều có trongSSHManager (chỉ là phiên bản 2.0.0 hay 10.5.1 mà thôi) và xem điều gì tuyệt vời hơn? Đúng rồi, miễn phí, open source code, update thường xuyên, hỗ trợ nhiệt tình .
 
 
-Chúng tôi có gì trong phiên bản này?
+## Chúng tôi có gì trong phiên bản này?
 
 Một số tính năng "đỉnh cao", bao gồm
 Kiểm tra tua quay SSH với nhiều công nhân hoạt động liên tục
