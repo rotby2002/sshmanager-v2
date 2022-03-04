@@ -78,3 +78,4 @@ Nhập, xuất, khởi động phần mềm, ngắt kết nối cổng, ... tấ
 Control by code with API HTTP siêu ngắn gọn, đơn giản, trực tiếp (cung cấp bởi OpenAPI), dễ đến nỗi không biết mã cũng được
 
 <img src="https://mmo4me.com/attachments/demo-png.182903/"></p>
+Xem thêm tại: "https://mmo4me.com/threads/sshmanager-v2-by-khanhhne-dung-ssh-lam-proxy-sieu-de.431741/"
